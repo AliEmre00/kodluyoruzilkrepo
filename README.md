@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında [Patika'da] (https://app.patika.dev/egitimler) açtığım ilk repo. İçinde bir adet README dosyası, bir adet index.html dosyası bulunuyor.
+Kodluyoruz Eğitimi kapsamında [Patika'da](https://app.patika.dev/egitimler) açtığım ilk repo. İçinde bir adet README dosyası, bir adet index.html dosyası bulunuyor.
 
 ![image](proje.png)
 
